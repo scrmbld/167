@@ -2,5 +2,5 @@ Untitled*
 *.ju.py
 .ipynb_checkpoints
 *.pkl
-mnist
+dataset
 *.png*
